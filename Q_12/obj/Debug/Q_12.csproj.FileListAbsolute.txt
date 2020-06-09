@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_12\bin\Debug\Q_12.exe.config
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_12\bin\Debug\Q_12.exe
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_12\bin\Debug\Q_12.pdb
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_12\obj\Debug\Q_12.Form1.resources
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_12\obj\Debug\Q_12.Properties.Resources.resources
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_12\obj\Debug\Q_12.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_12\obj\Debug\Q_12.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_12\obj\Debug\Q_12.exe
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_12\obj\Debug\Q_12.pdb
